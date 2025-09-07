@@ -13,8 +13,8 @@
 
 
 <div align="center" style="margin-bottom:100px">
-  <img width=50% align="center"  src="https://github-readme-stats.vercel.app/api?username=P1Henrique&theme=blue_navy&show_icons=true" />
-  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P1Henrique&show_icons=true&theme=blue_navy&layout=compact" />
+  <img width=50% align="center"  src="https://github-readme-stats.vercel.app/api?username=pablohenriz&theme=blue_navy&show_icons=true" />
+  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablohenriz&show_icons=true&theme=blue_navy&layout=compact" />
 </div>
 
 
