@@ -1,4 +1,4 @@
-## Olá! Sou o Pablo Henrique da Silva Braga, Técnico em informática em busca do Front-end!
+## Olá! Sou o Pablo Henrique da Silva Braga, Técnico em informática!
 
 <p align="center">Estou em  em busca de conhecimento e desafios empolgantes na área de tecnologia. Estou constantemente aprendendo novas tecnologias e aprimorando meu domínio em linguagens e ferramentas, Focado em aprimorar minhas habilidades na área.</p>&nbsp;
 
