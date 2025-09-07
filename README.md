@@ -1,6 +1,6 @@
 ## Olá! Sou o Pablo Henrique da Silva Braga, Técnico em informática em busca do Front-end!
 
-<p align="center">Estou em  em busca de conhecimento e desafios empolgantes na área de tecnologia. Estou constantemente aprendendo novas tecnologias e aprimorando meu domínio em linguagens e ferramentas. Focado em aprimorar minhas habilidades, tenho um grande interesse em contribuir para projetos inovadores e aprender continuamente para me destacar como um profissional na área de desenvolvimento de sistemas. 🚀</p>&nbsp;
+<p align="center">Estou em  em busca de conhecimento e desafios empolgantes na área de tecnologia. Estou constantemente aprendendo novas tecnologias e aprimorando meu domínio em linguagens e ferramentas, Focado em aprimorar minhas habilidades na área.</p>&nbsp;
 
 <p aling="center">
   <img align="center" alt="Pablo-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;&nbsp;
