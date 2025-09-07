@@ -26,7 +26,5 @@
  <a href="https://www.instagram.com/1henry.x" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<img align='right' src="https://utinuti.wordpress.com/wp-content/uploads/2012/01/digitando-anime1.gif" width="400">
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f5ca9&height=120&section=footer"/>
 
